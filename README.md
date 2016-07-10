@@ -1,2 +1,2 @@
 # mysql-tips
-mysql优化相关的tips
+mysql浼樺寲tips锛屼緥濡傦細绱㈠紩鐨勫垱寤恒�丼QL鎵ц璁″垝绛夌瓑
