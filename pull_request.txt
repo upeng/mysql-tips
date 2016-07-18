@@ -1,0 +1,10 @@
+this is git work-flow.txt
+(contribute your code to open source program)
+1. fork
+2. git clone
+3. git remote add upstream //git remote -v
+4. git checkout -b feature //create branch feature
+5. git commit //modify the local branch file and commit
+6. git pull upstream master //get the latest code from the project what your forked
+7. git checkout && git rebase master
+8. git push origin branch
